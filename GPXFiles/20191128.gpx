@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG125034</name>
+  <trkseg>
+   <trkpt lat="37.698997" lon="-77.470505">
+    <ele>2.035</ele>
+    <time>2019-11-28T17:50:34Z</time>
+   </trkpt>
+   <trkpt lat="37.698973" lon="-77.470604">
+    <ele>2.035</ele>
+    <time>2019-11-28T17:52:01Z</time>
+   </trkpt>
+   <trkpt lat="37.698996" lon="-77.470579">
+    <ele>1.255</ele>
+    <time>2019-11-28T17:52:16Z</time>
+   </trkpt>
+   <trkpt lat="37.699113" lon="-77.470506">
+    <ele>2.695</ele>
+    <time>2019-11-28T17:53:39Z</time>
+   </trkpt>
+   <trkpt lat="37.699096" lon="-77.470462">
+    <ele>2.309</ele>
+    <time>2019-11-28T17:54:03Z</time>
+   </trkpt>
+   <trkpt lat="37.699079" lon="-77.470465">
+    <ele>2.777</ele>
+    <time>2019-11-28T17:54:44Z</time>
+   </trkpt>
+   <trkpt lat="37.699081" lon="-77.470488">
+    <ele>1.741</ele>
+    <time>2019-11-28T17:58:40Z</time>
+   </trkpt>
+   <trkpt lat="37.699095" lon="-77.470402">
+    <ele>5.092</ele>
+    <time>2019-11-28T18:01:08Z</time>
+   </trkpt>
+   <trkpt lat="37.699241" lon="-77.470220">
+    <ele>5.156</ele>
+    <time>2019-11-28T18:01:58Z</time>
+   </trkpt>
+   <trkpt lat="37.699310" lon="-77.470219">
+    <ele>8.971</ele>
+    <time>2019-11-28T18:02:37Z</time>
+   </trkpt>
+   <trkpt lat="37.699432" lon="-77.470132">
+    <ele>8.950</ele>
+    <time>2019-11-28T18:03:31Z</time>
+   </trkpt>
+   <trkpt lat="37.699440" lon="-77.470120">
+    <ele>64.537</ele>
+    <time>2019-11-28T18:03:34Z</time>
+   </trkpt>
+   <trkpt lat="37.699442" lon="-77.470117">
+    <ele>64.236</ele>
+    <time>2019-11-28T18:03:35Z</time>
+   </trkpt>
+   <trkpt lat="37.699445" lon="-77.470112">
+    <ele>6501.463</ele>
+    <time>2019-11-28T18:03:37Z</time>
+   </trkpt>
+   <trkpt lat="37.699446" lon="-77.470111">
+    <ele>6501.107</ele>
+    <time>2019-11-28T18:03:38Z</time>
+   </trkpt>
+   <trkpt lat="37.699384" lon="-77.470049">
+    <ele>58.301</ele>
+    <time>2019-11-28T18:04:12Z</time>
+   </trkpt>
+   <trkpt lat="37.699380" lon="-77.470049">
+    <ele>58.259</ele>
+    <time>2019-11-28T18:04:13Z</time>
+   </trkpt>
+   <trkpt lat="37.699374" lon="-77.470048">
+    <ele>64.923</ele>
+    <time>2019-11-28T18:04:15Z</time>
+   </trkpt>
+   <trkpt lat="37.699372" lon="-77.470048">
+    <ele>64.510</ele>
+    <time>2019-11-28T18:04:16Z</time>
+   </trkpt>
+   <trkpt lat="37.699370" lon="-77.470038">
+    <ele>65.436</ele>
+    <time>2019-11-28T18:04:28Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG130457</name>
+  <trkseg>
+   <trkpt lat="37.699494" lon="-77.470013">
+    <ele>66.006</ele>
+    <time>2019-11-28T18:04:50Z</time>
+   </trkpt>
+   <trkpt lat="37.699395" lon="-77.470045">
+    <ele>65.617</ele>
+    <time>2019-11-28T18:05:33Z</time>
+   </trkpt>
+   <trkpt lat="37.699346" lon="-77.470015">
+    <ele>65.234</ele>
+    <time>2019-11-28T18:06:34Z</time>
+   </trkpt>
+   <trkpt lat="37.699327" lon="-77.470117">
+    <ele>65.842</ele>
+    <time>2019-11-28T18:08:14Z</time>
+   </trkpt>
+   <trkpt lat="37.699395" lon="-77.470072">
+    <ele>64.892</ele>
+    <time>2019-11-28T18:11:14Z</time>
+   </trkpt>
+   <trkpt lat="37.699396" lon="-77.470080">
+    <ele>61.868</ele>
+    <time>2019-11-28T18:13:53Z</time>
+   </trkpt>
+   <trkpt lat="37.699395" lon="-77.470080">
+    <ele>62.872</ele>
+    <time>2019-11-28T18:13:57Z</time>
+   </trkpt>
+   <trkpt lat="37.699396" lon="-77.470078">
+    <ele>63.047</ele>
+    <time>2019-11-28T18:15:15Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG132426</name>
+  <trkseg>
+   <trkpt lat="37.699394" lon="-77.470079">
+    <ele>64.525</ele>
+    <time>2019-11-28T18:24:26Z</time>
+   </trkpt>
+   <trkpt lat="37.699394" lon="-77.470079">
+    <ele>62.509</ele>
+    <time>2019-11-28T18:24:33Z</time>
+   </trkpt>
+   <trkpt lat="37.699394" lon="-77.470079">
+    <ele>65.305</ele>
+    <time>2019-11-28T18:24:34Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG132440</name>
+  <trkseg>
+   <trkpt lat="37.699159" lon="-77.470133">
+    <ele>64.927</ele>
+    <time>2019-11-28T18:24:40Z</time>
+   </trkpt>
+   <trkpt lat="37.699459" lon="-77.470032">
+    <ele>63.558</ele>
+    <time>2019-11-28T18:24:54Z</time>
+   </trkpt>
+   <trkpt lat="37.699463" lon="-77.470056">
+    <ele>59.646</ele>
+    <time>2019-11-28T18:25:33Z</time>
+   </trkpt>
+   <trkpt lat="37.699466" lon="-77.470102">
+    <ele>59.861</ele>
+    <time>2019-11-28T18:26:00Z</time>
+   </trkpt>
+   <trkpt lat="37.699465" lon="-77.470103">
+    <ele>62.364</ele>
+    <time>2019-11-28T18:26:30Z</time>
+   </trkpt>
+   <trkpt lat="37.699464" lon="-77.470105">
+    <ele>62.650</ele>
+    <time>2019-11-28T18:27:11Z</time>
+   </trkpt>
+   <trkpt lat="37.699464" lon="-77.470106">
+    <ele>61.761</ele>
+    <time>2019-11-28T18:27:13Z</time>
+   </trkpt>
+   <trkpt lat="37.699412" lon="-77.470137">
+    <ele>54.865</ele>
+    <time>2019-11-28T18:27:55Z</time>
+   </trkpt>
+   <trkpt lat="37.699410" lon="-77.470136">
+    <ele>62.808</ele>
+    <time>2019-11-28T18:27:56Z</time>
+   </trkpt>
+   <trkpt lat="37.699404" lon="-77.470132">
+    <ele>54.865</ele>
+    <time>2019-11-28T18:27:59Z</time>
+   </trkpt>
+   <trkpt lat="37.699402" lon="-77.470130">
+    <ele>54.701</ele>
+    <time>2019-11-28T18:28:00Z</time>
+   </trkpt>
+   <trkpt lat="37.699386" lon="-77.470112">
+    <ele>57.252</ele>
+    <time>2019-11-28T18:30:50Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

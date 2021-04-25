@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG003331</name>
+  <trkseg>
+   <trkpt lat="37.699464" lon="-77.470100">
+    <ele>71.388</ele>
+    <time>2014-04-13T04:33:31Z</time>
+   </trkpt>
+   <trkpt lat="37.699339" lon="-77.470156">
+    <ele>74.485</ele>
+    <time>2014-04-13T04:53:34Z</time>
+   </trkpt>
+   <trkpt lat="37.699366" lon="-77.470142">
+    <ele>77.828</ele>
+    <time>2014-04-13T05:08:57Z</time>
+   </trkpt>
+   <trkpt lat="37.699496" lon="-77.470099">
+    <ele>76.253</ele>
+    <time>2014-04-13T05:26:08Z</time>
+   </trkpt>
+   <trkpt lat="37.699381" lon="-77.470181">
+    <ele>77.063</ele>
+    <time>2014-04-13T05:27:19Z</time>
+   </trkpt>
+   <trkpt lat="37.699267" lon="-77.470261">
+    <ele>77.066</ele>
+    <time>2014-04-13T05:28:03Z</time>
+   </trkpt>
+   <trkpt lat="37.699397" lon="-77.470165">
+    <ele>77.960</ele>
+    <time>2014-04-13T05:29:02Z</time>
+   </trkpt>
+   <trkpt lat="37.699390" lon="-77.470147">
+    <ele>77.940</ele>
+    <time>2014-04-13T05:29:49Z</time>
+   </trkpt>
+   <trkpt lat="37.699432" lon="-77.470191">
+    <ele>78.344</ele>
+    <time>2014-04-13T05:30:36Z</time>
+   </trkpt>
+   <trkpt lat="37.699452" lon="-77.470178">
+    <ele>77.787</ele>
+    <time>2014-04-13T05:32:04Z</time>
+   </trkpt>
+   <trkpt lat="37.699456" lon="-77.470141">
+    <ele>76.335</ele>
+    <time>2014-04-13T05:33:11Z</time>
+   </trkpt>
+   <trkpt lat="37.699316" lon="-77.470140">
+    <ele>77.071</ele>
+    <time>2014-04-13T05:33:44Z</time>
+   </trkpt>
+   <trkpt lat="37.699424" lon="-77.470167">
+    <ele>76.540</ele>
+    <time>2014-04-13T05:34:42Z</time>
+   </trkpt>
+   <trkpt lat="37.699436" lon="-77.470106">
+    <ele>76.242</ele>
+    <time>2014-04-13T05:35:31Z</time>
+   </trkpt>
+   <trkpt lat="37.699429" lon="-77.470145">
+    <ele>73.132</ele>
+    <time>2014-04-13T05:59:18Z</time>
+   </trkpt>
+   <trkpt lat="37.699382" lon="-77.470042">
+    <ele>73.457</ele>
+    <time>2014-04-13T06:26:45Z</time>
+   </trkpt>
+   <trkpt lat="37.699376" lon="-77.470209">
+    <ele>73.611</ele>
+    <time>2014-04-13T06:28:04Z</time>
+   </trkpt>
+   <trkpt lat="37.699302" lon="-77.470176">
+    <ele>73.755</ele>
+    <time>2014-04-13T06:28:45Z</time>
+   </trkpt>
+   <trkpt lat="37.699352" lon="-77.470167">
+    <ele>73.910</ele>
+    <time>2014-04-13T06:29:23Z</time>
+   </trkpt>
+   <trkpt lat="37.699225" lon="-77.470307">
+    <ele>73.678</ele>
+    <time>2014-04-13T06:30:09Z</time>
+   </trkpt>
+   <trkpt lat="37.699374" lon="-77.470238">
+    <ele>73.159</ele>
+    <time>2014-04-13T06:30:47Z</time>
+   </trkpt>
+   <trkpt lat="37.699379" lon="-77.470252">
+    <ele>73.313</ele>
+    <time>2014-04-13T06:31:38Z</time>
+   </trkpt>
+   <trkpt lat="37.699419" lon="-77.470148">
+    <ele>72.788</ele>
+    <time>2014-04-13T06:33:18Z</time>
+   </trkpt>
+   <trkpt lat="37.699412" lon="-77.470114">
+    <ele>75.899</ele>
+    <time>2014-04-13T07:16:11Z</time>
+   </trkpt>
+   <trkpt lat="37.699409" lon="-77.470172">
+    <ele>72.894</ele>
+    <time>2014-04-13T08:27:08Z</time>
+   </trkpt>
+   <trkpt lat="37.699397" lon="-77.470124">
+    <ele>76.014</ele>
+    <time>2014-04-13T09:11:50Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
